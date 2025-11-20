@@ -1,2 +1,2 @@
-# Nemo
+# Kintsugi
 Mood-adaptive journaling app
